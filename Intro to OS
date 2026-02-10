@@ -1,0 +1,17 @@
+Operating System (OS) is a layer between the hardware and the applications.
+Windows, Linux, macOS
+Linux is a command line operating system based on unix
+
+A central processing unit (CPU)—also called a central processor or main processor—is the most important processor in a given computer
+Random-access memory (RAM) is a form of electronic computer memory that can be read and changed in any order, typically used to store working data and machine code.
+
+Kernel Space - The privileged, locked-down core of the OS.
+User Space - All standard applications run.
+
+Firewall - A security tool, hardware or software that is used to filter network traffic by stopping unauthorized incoming and outgoing traffic.
+
+####  OS Interfaces  ###
+GUI - graphical user interface
+what you're most likely used to interacting with
+CLI - command line interface
+where you enter specific text-based commands to retrieve or manipulate information
