@@ -1,0 +1,16 @@
+CIA - Confidentiality, Integrity, Availability
+
+Attack Vectors - Entry point or route for attacker to gain access
+eg- email, social media, removable devices, browsers, etc...
+Security breach - get unauthorized access to device
+
+Malware - a piece of software used by cybercriminals to infect systems and carry out actions that will cause harm
+Two main components of Malware
+(i) Propagation mechanism
+(ii) Payload
+
+(i) Propagation - how malware spreads itself across one or more systems
+eg- virus, worm, trojan
+(ii) Payload - the action that a piece of malware performs on an infected device or system
+eg- ransomware, spyware, backdoors, botnet
+
