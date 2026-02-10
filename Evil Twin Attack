@@ -1,0 +1,45 @@
+What is an Evil Twin Attack?
+An evil twin attack is a type of Wi-Fi hack where a cybercriminal sets up a fake Wi-Fi access point with the same name (SSID) as a legitimate network. 
+Unsuspecting users connect to it, thinking it’s the real network. All data sent through the fake network can then be monitored or stolen by the attacker.
+-Common on public Wi-Fi networks like coffee shops, libraries, or airports.
+-Can be created with a smartphone, laptop, or Wi-Fi Pineapple.
+
+##### How Evil Twin Attacks Work  ###########
+1. Finding the right location – Attackers target busy public Wi-Fi spots.
+2. Setting up a fake access point – They copy the SSID of a legitimate network.
+3. Attracting victims – Stronger signal or automatic device connections lure users.
+4. Fake login page (captive portal) – Users may enter credentials, which the hacker captures.
+5. Data theft – The attacker can monitor browsing, steal passwords, and even access bank accounts.
+
+######## Why Evil Twin Attacks Are Dangerous ###########
+-Hackers can steal login credentials, financial data, and personal information.
+-Malware can be injected into your device.
+-Victims often don’t notice until it’s too late.
+
+Example
+A person connects to a coffee shop’s Wi-Fi, but the hacker has set up an evil twin with a stronger signal. 
+When the person logs into their bank account without a VPN, the hacker steals their credentials and money.
+
+######## Rogue Access Point vs Evil Twin ##########
+-Rogue Access Point: Unauthorized device plugged into a network to bypass security.
+-Evil Twin: Fake network mimicking a legitimate one to trick users into connecting.
+-An evil twin is a type of rogue access point.
+
+What to Do if Victimized
+-Contact your bank or credit card company immediately.
+-Change all passwords.
+-Report to local authorities if necessary.
+
+####### Protection Tips #######
+-Avoid unsecured Wi-Fi hotspots.
+-Use your personal hotspot instead of public Wi-Fi.
+-Check warning notifications from your device.
+-Disable auto-connect for networks.
+-Avoid logging into sensitive accounts on public Wi-Fi.
+-Use multi-factor authentication.
+-Stick to HTTPS websites.
+-Use a VPN to encrypt your data.
+-Install comprehensive internet security software.
+
+****** Always be cautious with public Wi-Fi. Even if the network looks familiar, 
+an evil twin could be waiting to steal your data. *********
