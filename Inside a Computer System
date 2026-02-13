@@ -1,0 +1,17 @@
+Motherboard : The Skeleton and Nerves
+RAM : Short-term Memory
+PSU : Heart and lungs (power supply)
+CPU : The Brains
+GPU : Visual Cortex
+HDD + SSD : Long-term memory
+Network Adapter : Communicate with other computer and network
+Input & output devices : To send and receive data
+UEFI : Interface between the OS and platform firmware
+BIOS : Boot firmware that provides runtime services for the OS
+
+Processing Steps
+(i) Press the power button
+(ii) Firmware Starts
+(iii) Power-on Self Test
+(iv) Select Boot Device
+(v) Initiate Bootloader
