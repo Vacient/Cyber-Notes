@@ -1,0 +1,24 @@
+######### MS-DOS commands in Window #####
+dir : shows a list of all files in the current directories
+cd .. : Changes the directory to indicated directory
+cd \ : Chages directory to root directory (often C)
+copy : Copies files to another location
+del filename : Deletes one or more files
+find : Searches for text in files
+mkdir directory :  Creates a new directory
+ren oldname newname : Renames a file
+help : Displays all the commands with brief description
+help command : Displays extensive help for the indicated commands
+
+Hardware abstraction layer (HAL) : software that handles all of the communiation between hardware and kernel.
+Kernel : the core of the operating system and has control over the entire computer.
+Device drivers : specialized software that acts as a translator between an operating system (OS) and hardware devices, allowing them to communicate and function properly.
+BIOS : BIOS, or Basic Input/Output System, is software stored on a small memory chip, also known as firmware.
+UEFI : Unified Extensible Firmware Interface (UEFI) is a modern, 64-bit firmware interface that acts as a faster, more secure, and feature-rich replacement for traditional Legacy BIOS.
+
+Installed application runs in user mode and operating system code runs in kernel mode.
+
+Process : A process is any program that is currently executing.
+Thread : A thread is a part of the process that can be executed.
+*** The processor performs calculation on threads. ***
+*** Multiple threads can be executed at the same time. ***
